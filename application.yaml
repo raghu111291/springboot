@@ -9,7 +9,7 @@ eureka:
       
 okta:
   oauth2:
-    issuer: https://github.com/raghu111291/springboot/blob/main/application.yaml
+    issuer: https://dev-50324572.okta.com/oauth2/default
     audience: api://default
 spring:
   zipkin:
